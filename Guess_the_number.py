@@ -1,5 +1,4 @@
 #START OF CODE
-#Written by Aryan Sahel on May 23, 2020.
 #Guess_the_number.py ©
 
 #This is a game where a number is randomly generated and the goal is for the user to guess that number. The number lies between 1 and 20.
